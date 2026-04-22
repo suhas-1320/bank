@@ -1,0 +1,6 @@
+pyproject.toml
+concepts_packaging_versioning.egg-info/PKG-INFO
+concepts_packaging_versioning.egg-info/SOURCES.txt
+concepts_packaging_versioning.egg-info/dependency_links.txt
+concepts_packaging_versioning.egg-info/requires.txt
+concepts_packaging_versioning.egg-info/top_level.txt

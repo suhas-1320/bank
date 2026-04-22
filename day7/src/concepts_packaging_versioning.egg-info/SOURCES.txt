@@ -1,0 +1,8 @@
+pyproject.toml
+src/cli_automation/__init__.py
+src/cli_automation/typerdemo.py
+src/concepts_packaging_versioning.egg-info/PKG-INFO
+src/concepts_packaging_versioning.egg-info/SOURCES.txt
+src/concepts_packaging_versioning.egg-info/dependency_links.txt
+src/concepts_packaging_versioning.egg-info/requires.txt
+src/concepts_packaging_versioning.egg-info/top_level.txt

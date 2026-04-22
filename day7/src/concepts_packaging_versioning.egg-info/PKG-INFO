@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: concepts-packaging-versioning
+Version: 0.1.0
+Summary: Learning packaging and versioning
+Author-email: suhas <ishwarcmullur888@gmail.com>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: typer>=0.9.0
+Requires-Dist: click>=8.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0.0; extra == "dev"
+Requires-Dist: black>=24.0.0; extra == "dev"
+Requires-Dist: isort>=5.0.0; extra == "dev"
